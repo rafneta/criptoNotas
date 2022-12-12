@@ -7,7 +7,8 @@
 
 <!-- The next three lines are likely for mature projects only: -->
 
-<!-- <brandlogo url="" source="images/cover.png"/> -->
+<!-- <brandlogo url="" source="images/frog.jpg"/>-->
+<brandlogo  source="logoazul.png"/>
 <!-- <covers front="images/front.pdf" back="images/back.pdf"/> -->
 <!-- <document-id>unique-book-id</document-id> -->
 
