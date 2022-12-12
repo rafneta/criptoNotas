@@ -7,7 +7,7 @@ var ptx_lunr_docs = [
   "type": "Colofón",
   "number": "",
   "title": "Colofón",
-  "body": "  hola  sitio personal  https:\/\/rafneta.github.io   copyright  "
+  "body": "  sitio personal  https:\/\/rafneta.github.io   copyright  "
 },
 {
   "id": "dedication-1",
