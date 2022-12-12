@@ -10,13 +10,27 @@
       <department>Departamento de Ciencias</department>
       <institution>ITESM-CEM</institution>
     </author>
+    <author>
+      <personname>Fernando Vallejo Aguirre</personname>
+      <department>Departamento de Ciencias</department>
+      <institution>ITESM-CEM</institution>
+    </author>
+    <author>
+      <personname>Fermín Acota Magallanes</personname>
+      <department>Departamento de Ciencias</department>
+      <institution>ITESM-CEM</institution>
+    </author>
+    <author>
+      <personname>Armando Fabián Lugo Peñaloza</personname>
+      <department>Academía de Mecatrónica</department>
+      <institution>IPN-UPIITA</institution>
+    </author>
     <date><today/></date>
   </titlepage>
 
   <colophon>
 
     <website>
-    <title>hola</title>
     
     
       <name><c>sitio personal</c></name>
