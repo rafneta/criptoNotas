@@ -5,11 +5,14 @@
 <chapter xml:id="ch_first" xmlns:xi="http://www.w3.org/2001/XInclude">
 
 <!-- Change title when you have one: -->
-  <title>My First Chapter</title>
+  <title>Capìtulo de fermin</title>
   <!-- If the chapter has sections, there may be an introduction -->
   <!-- before those sections. Note the <p> tags around content.  -->
   <introduction>
     <p>This is the introduction to the chapter</p>
+    <section xml:id="sec-hol">
+      <title>HOLA BB</title>   
+    </section>
   </introduction>
 
   <!-- Sections can be written directly here, but it might help  -->
